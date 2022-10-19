@@ -1,16 +1,12 @@
-# fitness_app
+# Diet and Fitness App
 
-A new Flutter project.
+Used for finding exercises and food items:
+1. Shows food items with diet labels (like high carb) on searching
+2. Has a collection of exercises along with instructional videos
+3. Can put some exercises together to create your circuit
 
-## Getting Started
+Uses Flutter and Firebase, Firestore
 
-This project is a starting point for a Flutter application.
+Food Recipe API used: https://developer.edamam.com/edamam-recipe-api
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
